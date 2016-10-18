@@ -6,3 +6,13 @@
   font-style: bold;
   font-size: 40px;
 }
+
+.green-background {
+  background-color: green;
+}
+.yellow-background {
+  background-color: yellow;
+}
+.red-background {
+  background-color: red;
+}
